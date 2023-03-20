@@ -1,0 +1,44 @@
+/* Write your CSS here */
+.CardContainer {
+  height: 80vh;
+  width: 35vw;
+  background-color: #ffffff;
+  padding: 15px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 10vh;
+}
+.tossHead {
+  color: #a35200;
+  text-align: center;
+  margin-top: 10vh;
+}
+.tosspara {
+  text-align: center;
+  font-size: 17px;
+  color: #334155;
+}
+.tossimage {
+  height: 25vh;
+}
+.but {
+  background-color: #f9d423;
+  height: 5vh;
+  border-radius: 7px;
+  border-width: 0px;
+  width: 100px;
+  margin-top: 15px;
+  color: #a35200;
+  font-weight: bold;
+}
+.results {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 5vh;
+}
+.result {
+  color: #475569;
+  margin: 5px;
+}
